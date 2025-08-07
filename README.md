@@ -15,7 +15,7 @@ Data: AISNE school list, MassGIS
 
 Tools: Python (GeoPandas, Folium), Google Colab
 
-![1-points_massachusetts_schools_map.html](https://github.com/Hummingrace/30daymapchallenge/blob/gh-pages/1-points_massachusetts_schools_map.html)
+![1-points_massachusetts_schools_map.html](https://hummingrace.github.io/30daymapchallenge/1-points_massachusetts_schools_map.html)
 
 https://github.com/Hummingrace/30daymapchallenge/blob/dc6b620d4495d462ba3527639e159a2b31e9be65/1-points_massachusetts_schools_map.html)
 
