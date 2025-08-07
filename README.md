@@ -15,7 +15,7 @@ Data: AISNE school list, MassGIS
 
 Tools: Python (GeoPandas, Folium), Google Colab
 
-![](1-points_massachusetts_schools_map.html)
+![](30daymapchallenge/1-points_massachusetts_schools_map.html)
 
 https://github.com/Hummingrace/30daymapchallenge/blob/dc6b620d4495d462ba3527639e159a2b31e9be65/1-points_massachusetts_schools_map.html)
 
@@ -29,7 +29,7 @@ Data: Dunkin’ store locations (scraped), Google Maps API
 
 Tools: Python (Folium and GeoPandas-visualizing geospatial data, Selenium-web scraping, SciPy-mapping nearest neighbors), Google Colab
 
-2-lines_massachusetts_dunkin_donut_locations_map.html
+![](30daymapchallenge/2-lines_massachusetts_dunkin_donut_locations_map.html)
 
 https://github.com/Hummingrace/30daymapchallenge/blob/dc6b620d4495d462ba3527639e159a2b31e9be65/2-lines_massachusetts_dunkin_donut_locations_map.html
 
