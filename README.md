@@ -67,7 +67,9 @@ This is a daily social mapping project happening every November.
 ## 22 - 2 Colors
 
 I decided on a high contrast map of Boston's green spaces and natural areas in green against blues tones for all buildings, while framing them in by roads and highways in black (which is apparently not a color according to color theory). 
+
 Data: OSM buildings, natural, roads, MapTiler Toner baselayer
+
 Tools: QGIS, MapTiler API, QuickOSM plugin
 
 ![](22-boston_2_color.png)
