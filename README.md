@@ -1,5 +1,6 @@
-# 30DayMapChallenge
-My 2024 entries for the [30 Day Map Challenge](https://30daymapchallenge.com/) organized by [Topi Tjukanov](https://tjukanov.org/aboutme).
+# 2024 30DayMapChallenge
+
+My entries for the 2024 [30 Day Map Challenge](https://30daymapchallenge.com/) organized by [Topi Tjukanov](https://tjukanov.org/aboutme).
 
 This is a daily social mapping project happening every November.
 ![image](https://github.com/user-attachments/assets/a79b2355-a5f6-40a7-878c-199e1745ebc4)
