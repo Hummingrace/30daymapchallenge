@@ -22,12 +22,6 @@ This is a daily social mapping project happening every November.
 
 <br>
 
-## 4 - Hexagons
-
-Skipped
-
-<br>
-
 ## 5 - A journey
 
 ![](5-journey_ecuador_roadtrip.png)
@@ -46,12 +40,6 @@ Skipped
 
 <br>
 
-## 8 - HDX
-
-Skipped
-
-<br>
-
 ## 9 - AI only
 
 ![](9-ai_only.png)
@@ -64,27 +52,9 @@ Skipped
 
 <br>
 
-## 11 - Arctic
-
-Skipped
-
-<br>
-
-## 12 - Time and space
-
-Skipped
-
-<br>
-
 ## 13 - A new tool
 
 ![](13-new_tool_Quelccaya_ice_cap.png)
-
-<br>
-
-## 14 - A world map
-
-Skipped
 
 <br>
 
@@ -94,14 +64,12 @@ Skipped
 
 <br>
 
-## 16 - Choropleth
+## 22 - 2 Colors
 
-Skipped
+I decided on a high contrast map of Boston's green spaces and natural areas in green against blues tones for all buildings, while framing them in by roads and highways in black (which is apparently not a color according to color theory). 
+Data: OSM buildings, natural, roads, MapTiler Toner baselayer
+Tools: QGIS, MapTiler API, QuickOSM plugin
 
-<br>
-
-## 17 - Collaborative
-
-Skipped
+![](22-boston_2_color.png)
 
 <br>
