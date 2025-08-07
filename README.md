@@ -1,6 +1,6 @@
-2024 #30DayMapChallenge
+# 2024 #30DayMapChallenge
 - Grace Delgado
-- 
+
 This is a personal project for the 2024 #30DayMapChallenge, a daily social mapping project open to everyone. The challenge takes place every November, with 30 different mapping themes - one for each day of the month. 
 
 Daily social mapping project happening every November.
