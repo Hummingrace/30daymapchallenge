@@ -1,8 +1,9 @@
 # 2024 30DayMapChallenge
 
-My entries for the 2024 [30 Day Map Challenge](https://30daymapchallenge.com/) organized by [Topi Tjukanov](https://tjukanov.org/aboutme).
+This is a personal project for the 2024 #30DayMapChallenge, a daily social mapping project open to everyone and organized by [Topi Tjukanov](https://tjukanov.org/aboutme). The challenge takes place every November, with 30 different mapping themes - one for each day of the month. My personal goal was to create at least 10 maps and learn about new datasets and mapping tools along the way.
 
-This is a daily social mapping project happening every November.
+Below are my entries for the 2024 [30 Day Map Challenge](https://30daymapchallenge.com/) for the daily themes shown below.
+
 ![image](https://github.com/user-attachments/assets/a79b2355-a5f6-40a7-878c-199e1745ebc4)
 <br><br><br>
 
